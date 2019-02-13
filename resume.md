@@ -2,6 +2,8 @@
 ## Senior Analyst
 
 > [manithree@gmail.com](mailto:manithree@gmail.com)
+> 273 N 750 E
+> Orem, UT 84097
 > (801) 709-1109
 
 ------
@@ -9,6 +11,7 @@
 ### Technical Skills
 
 1. Linux
+1. Docker
 1. Amazon Web Services
 1. Git
 1. PostgreSQL / PostGIS
@@ -20,6 +23,7 @@
 
 1. Java
 1. Python
+1. Groovy
 1. Rust
 1. C++
 
@@ -27,7 +31,7 @@
 
 ### Career Experience
 
-**Xactware** *Programmer/Analyst/Team Leader* __1995 to Present__
+**Xactware** *Systems Analyst/Team Leader* __1995 to Present__
     Orem, UT - Lehi, UT
 	Positions include core team developer, *Sketch* team leader, *Systems Development* team leader, *DevOps* team leader
 
